@@ -2,3 +2,4 @@ Testando atualização do clone.
 retorno.
 teste
 mais 1 teste de commit --hard
+Testando git stash list
