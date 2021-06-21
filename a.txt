@@ -1,2 +1,3 @@
 Testando uma atualização de arquivo
 teste 03
+teste de git log
