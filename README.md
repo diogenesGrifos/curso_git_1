@@ -21,3 +21,8 @@ _Usando italico e **negrito** junto em uma frase_
 * JavaScript
 * PHP
 * MySql
+
+### Funcionalidade do Projeto
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus orimeira compra
