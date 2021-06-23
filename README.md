@@ -10,3 +10,14 @@ Tela de produtos, catálogo, Home
 *Italico*
 
 _Usando italico e **negrito** junto em uma frase_
+
+**Usando italico e _negrito_ junto em uma frase**
+
+####Lista ordenadas e não ordenadas
+### Linguagens do projeto:
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* MySql
