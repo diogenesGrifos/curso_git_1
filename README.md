@@ -43,3 +43,6 @@ _Usando italico e **negrito** junto em uma frase_
 
 Contribuido principal: https://www.github.com/diogenesGrifos
 
+### Imagem com link
+[![Logo Java](https://logospng.org/download/java/logo-java-256.png)](https://www.github.com/diogenesGrifos)
+
