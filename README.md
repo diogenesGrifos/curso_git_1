@@ -9,4 +9,4 @@ Tela de produtos, catálogo, Home
 
 *Italico*
 
-_Usando italico e **negrigo** junto em uma frase_
+_Usando italico e **negrito** junto em uma frase_
