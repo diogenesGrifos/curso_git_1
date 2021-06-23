@@ -39,3 +39,5 @@ _Usando italico e **negrito** junto em uma frase_
 ### Links interessantes
 [Google](https://www.google.com)
 
+[https://www.google.com](https://www.google.com)
+
