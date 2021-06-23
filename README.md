@@ -28,3 +28,7 @@ _Usando italico e **negrito** junto em uma frase_
     2. Desconto especial
 2. Integração com outros pagamentos
 3. Sistema de bônus orimeira compra
+
+#### Imagem Local
+
+![Logo da Linguagem](img/logoJava.png)
