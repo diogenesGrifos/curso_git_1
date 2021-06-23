@@ -46,3 +46,10 @@ Contribuido principal: https://www.github.com/diogenesGrifos
 ### Imagem com link
 [![Logo Java](https://logospng.org/download/java/logo-java-256.png)](https://www.github.com/diogenesGrifos)
 
+### Código da função soma
+```JavaScripti
+function soma(a, b){
+    return a + b;
+}
+```
+
