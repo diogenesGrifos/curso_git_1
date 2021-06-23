@@ -13,7 +13,7 @@ _Usando italico e **negrito** junto em uma frase_
 
 **Usando italico e _negrito_ junto em uma frase**
 
-####Lista ordenadas e não ordenadas
+#### Lista ordenadas e não ordenadas
 ### Linguagens do projeto:
 
 * HTML
