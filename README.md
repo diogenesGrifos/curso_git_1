@@ -24,7 +24,7 @@ _Usando italico e **negrito** junto em uma frase_
 
 ### Funcionalidade do Projeto
 1. Área de membros
-    1.1. Login
-    1.2. Desconto especial
+    1. Login
+    2. Desconto especial
 2. Integração com outros pagamentos
 3. Sistema de bônus orimeira compra
