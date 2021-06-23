@@ -34,4 +34,4 @@ _Usando italico e **negrito** junto em uma frase_
 ![Logo da Linguagem](img/logoJava.png)
 
 #### Imagem por url
-![Java 25 anos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmari-azevedo.medium.com%2Fjava-25-um-overview-da-linguagem-no-seu-jubileu-de-prata-258c0c703d64&psig=AOvVaw1mu1aNZ6s-i5p9RZpi14Fc&ust=1624503867197000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCOiMydbirPECFQAAAAAdAAAAABAf)
+![Java 25 anos](https://logospng.org/download/java/logo-java-4096.png)
