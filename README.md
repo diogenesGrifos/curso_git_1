@@ -2,4 +2,5 @@
 
 Vamos criar um e-commerce, para a empresa
 
-## Funcionalidades, tela de produtos, catálogo, Home
+## Funcionalidades
+Tela de produtos, catálogo, Home
