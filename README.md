@@ -8,3 +8,5 @@ Tela de produtos, catálogo, Home
 **Inserindo Negrito**
 
 *Italico*
+
+_Usando italico e **negrigo** junto em uma frase_
