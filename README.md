@@ -4,3 +4,7 @@ Vamos criar um e-commerce, para a empresa
 
 ## Funcionalidades
 Tela de produtos, catálogo, Home
+
+**Inserindo Negrito**
+
+*Italico*
