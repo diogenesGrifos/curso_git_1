@@ -41,3 +41,5 @@ _Usando italico e **negrito** junto em uma frase_
 
 [https://www.google.com](https://www.google.com)
 
+Contribuido principal: https://www.github.com/diogenesGrifos
+
